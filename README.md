@@ -61,6 +61,6 @@
 ---
 
 ## GitHub / 资源链接 / Ресурсы
-- [Oaklands GitHub Repository](https://github.com/WSMOMQAZ/Oaklands)
+- [Oaklands GitHub Repository](https://github.com/WSMOMQAZ/Oaklands-game)
 - 所有模型、工具和示例脚本均可在仓库中获取。
 - Все модели, инструменты и примеры скриптов доступны в репозитории.
